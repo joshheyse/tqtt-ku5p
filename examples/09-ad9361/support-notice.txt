@@ -1,0 +1,5 @@
+This project requires the related RF daughterboard. The tutorial is not available to customers who bought only the base board.
+
+If you bought the daughterboard, contact customer support to get the tutorial for this project.
+
+Taobao store: https://sysclk.taobao.com/
